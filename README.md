@@ -59,16 +59,10 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" style="margin: 5px;">
     <img src="https://icon2.cleanpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946755581.webp" alt="Flask" width="40" height="40"/>
   </a>
-  
-  <a href="https://streamlit.io/" target="_blank" style="margin: 5px;">
-    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" style="margin: 5px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FASTAPI" width="40" height="40"/>
   </a>
-  
-  <a href="https://opencv.org/" target="_blank" style="margin: 5px;">
-    <img src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png" alt="OpenCV" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
+    <!-- Tools -->
   <a href="https://powerbi.microsoft.com/" target="_blank" style="margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
@@ -80,11 +74,23 @@
   <a href="https://figma.com/" target="_blank" style="margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  
+  <a href="https://streamlit.io/" target="_blank" style="margin: 5px;">
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="40" height="40"/>
+  </a>
+  
+  <a href="https://opencv.org/" target="_blank" style="margin: 5px;">
+    <img src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png" alt="OpenCV" width="40" height="40"/>
+  </a>
+
   
   <a href="https://git-scm.com/" target="_blank" style="margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-
+  
   <!-- Databases -->
   <a href="https://firebase.google.com/" target="_blank" style="margin: 5px;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
