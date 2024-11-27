@@ -134,10 +134,25 @@
 
 ---
 
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchanaSenthilvel&layout=compact&langs_count=7&theme=light" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArchanaSenthilvel&show_icons=true&theme=light" alt="GitHub Stats" />
+</p>
+
+
+---
+
+
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Archana&label=Profile%20Views&color=0e75b6&style=flat" alt="archana-profile" />
 </p>
+
+
 
 ---
 
